@@ -1,4 +1,4 @@
-# 👋# 👋 Hi, I'm Varshini
+#  👋 Hi, I'm Varshini
 
 🎯 Data Analyst | Turning Data into Actionable Insights
 
