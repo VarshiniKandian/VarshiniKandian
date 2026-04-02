@@ -44,7 +44,7 @@ I am a Data Analyst passionate about analyzing data, uncovering patterns, and de
 - Built ML & Deep Learning models (Random Forest, XGBoost, LSTM with Attention)  
 - Developed a Flask-based web app for prediction  
 
-👉 [View Project](ADD_YOUR_GITHUB_PROJECT_LINK)
+👉 [View Project](https://github.com/VarshiniKandian/credit-scoring-analysis.git)
 
 ---
 
