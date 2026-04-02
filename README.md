@@ -1,12 +1,14 @@
-# 👋 Hi, I'm Varshini
+# 👋# 👋 Hi, I'm Varshini
 
 🎯 Data Analyst | Turning Data into Actionable Insights
 
 ---
 
-## 💡 About Me
+## 💡 Profile
 
-I am a Data Analyst passionate about analyzing data, uncovering patterns, and delivering insights that drive business decisions. I enjoy working with real-world datasets and building solutions using analytics and machine learning.
+I am a Data Analyst passionate about analyzing data, uncovering patterns, and delivering insights that drive business decisions. I have hands-on experience in data analysis, visualization, and building data-driven solutions using Python, SQL, and Power BI.
+
+I enjoy working with real-world datasets and translating complex data into meaningful insights that support decision-making.
 
 ---
 
@@ -57,20 +59,22 @@ I am a Data Analyst passionate about analyzing data, uncovering patterns, and de
 ---
 
 ## 🎓 Education
-(Add your degree here)
+- Master of Computer Applications (MCA)  
+  RVR & JC College of Engineering, Guntur  
+  CGPA: 8.96 | 2024 – 2026  
+
+- Bachelor of Computer Applications (BCA)  
+  JKC College, Guntur  
+  CGPA: 8.99 | 2021 – 2024  
 
 ---
 
 ## 📜 Certifications
-(Add certifications here)
+- Data Analyst Job Simulation – Tata Group (2026)  
+  - Performed data cleaning, validation, and created Power BI dashboards  
 
----
+- Data Analytics Virtual Internship – Deloitte Australia (Forage) (2025)  
+  - Worked on business scenarios involving data analysis and visualization  
 
-## 🏆 Achievements
-- Top 2 in college  
-
----
-
-## 🔗 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/varshini-kandian-b03833363/
-- Email: (add email)
+- Introduction to Career Skills in Data Analytics – LinkedIn Learning (2025)  
+  - Learned foundational concepts in data analytics and problem-solving  
