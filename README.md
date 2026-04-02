@@ -44,7 +44,7 @@ I am a Data Analyst passionate about analyzing data, uncovering patterns, and de
 - Built interactive Power BI dashboard for visualization  
 - Generated insights to support business decisions  
 
-👉 [View Project](PASTE_VENDOR_PROJECT_LINK)
+👉 [View Project](https://github.com/VarshiniKandian/vendor-performance-analysis.git)
 
 ### 🔹 Credit Risk Analysis & Prediction
 - Analyzed financial data to identify credit risk patterns  
