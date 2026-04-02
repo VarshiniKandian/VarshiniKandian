@@ -1,79 +1,68 @@
 # 👋 Hi, I'm Varshini
 
-🎯 Data Analyst | Passionate about Translating Data into Actionable Insights
+🎯 Data Analyst | Turning Data into Actionable Insights
 
 ---
 
 ## 💡 About Me
 
-I am a Data Analyst with a passion for leveraging data to make informed decisions.
-I enjoy working with data analytics, visualization tools, and building insights that support business growth.
+I am a Data Analyst passionate about analyzing data, uncovering patterns, and delivering insights that drive business decisions. I enjoy working with real-world datasets and building solutions using analytics and machine learning.
 
 ---
 
 ## 📌 Summary
 
-* Enthusiastic about Data Analytics with hands-on experience in Python, SQL, and Power BI
-* Skilled in Data Cleaning, Exploratory Data Analysis (EDA), and Visualization
-* Interested in solving real-world problems using data
+- Strong foundation in Data Analytics and problem-solving  
+- Hands-on experience in Python, SQL, and Power BI  
+- Skilled in Data Cleaning, EDA, and Data Visualization  
+- Interested in solving real-world business problems using data  
 
 ---
 
 ## 🛠️ Skills
 
 ### 🔹 Programming Languages
-
-* Python
-* SQL
+- Python  
+- SQL  
 
 ### 🔹 Data Analysis
-
-* Data Cleaning
-* Exploratory Data Analysis (EDA)
-* Data Visualization
+- Data Cleaning  
+- Exploratory Data Analysis (EDA)  
+- Data Visualization  
 
 ### 🔹 Tools
-
-* Power BI
-* Excel
+- Power BI  
+- Excel  
 
 ---
 
 ## 📊 Projects
 
-### 🔸 Project 1 – (Coming Soon)
+### 🔹 Credit Risk Analysis & Prediction
+- Analyzed financial data to identify credit risk patterns  
+- Performed data cleaning, EDA, and feature engineering  
+- Built ML & Deep Learning models (Random Forest, XGBoost, LSTM with Attention)  
+- Developed a Flask-based web app for prediction  
 
-* Description will be added
-
-### 🔸 Project 2 – (Coming Soon)
-
-* Description will be added
-
-### 🔸 Project 3 – (Coming Soon)
-
-* Description will be added
+👉 [View Project](ADD_YOUR_GITHUB_PROJECT_LINK)
 
 ---
 
 ## 🎓 Education
-
-* Your Degree (Add later)
+(Add your degree here)
 
 ---
 
 ## 📜 Certifications
-
-* Add later
+(Add certifications here)
 
 ---
 
 ## 🏆 Achievements
-
-* Top 2 in college
+- Top 2 in college  
 
 ---
 
 ## 🔗 Connect With Me
-
-* LinkedIn: (add link later)
-* Email: (add later)
+- LinkedIn: https://www.linkedin.com/in/varshini-kandian-b03833363/
+- Email: (add email)
