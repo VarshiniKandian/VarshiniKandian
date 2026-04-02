@@ -38,6 +38,14 @@ I am a Data Analyst passionate about analyzing data, uncovering patterns, and de
 
 ## 📊 Projects
 
+### 🔹 Vendor Performance Analysis ⭐
+- Analyzed vendor sales data to identify performance trends  
+- Performed data cleaning and Exploratory Data Analysis (EDA)  
+- Built interactive Power BI dashboard for visualization  
+- Generated insights to support business decisions  
+
+👉 [View Project](PASTE_VENDOR_PROJECT_LINK)
+
 ### 🔹 Credit Risk Analysis & Prediction
 - Analyzed financial data to identify credit risk patterns  
 - Performed data cleaning, EDA, and feature engineering  
